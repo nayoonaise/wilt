@@ -1,0 +1,9 @@
+{
+    "plugins": [],
+    "pluginsConfig": {
+        
+    },
+    "variables": {
+        "BASE_URL": "https://whatlearnt.git-pages.com/"
+    }
+}
